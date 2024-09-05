@@ -1,6 +1,7 @@
 <h1 align="center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> Hi, I'm Talha Aslam</h1>
 <div align ="center"> <img src = "https://github.com/Talha-Aslam/Talha-Aslam/blob/main/tada.jpg"> </div>
 <h3 align="center">"👨‍💻 Flutter Enthusiast | 🚀 Building Apps with Python & Flutter | 🛠 Creator of Jarvis | 🧰 Experienced in Tkinter & SQLite3 | 💼 Developed Desktop Inventory Management Software | 🌱 Lifelong Learner & Innovator"</h3>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Talha-Aslam&label=Profile%20views&color=0e75b6&style=flat" alt="Talha-Aslam" /> </p>
 
@@ -34,3 +35,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Talha-Aslam&show_icons=true&locale=en" alt="Talha-Aslam" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Talha-Aslam&" alt="Talha-Aslam" /></p>
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Talha-Aslam&limit=5&theme=flat&combine_all_yearly_contributions=true)
