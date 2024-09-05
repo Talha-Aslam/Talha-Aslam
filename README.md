@@ -39,3 +39,6 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Talha-Aslam&limit=5&theme=flat&combine_all_yearly_contributions=true)
+
+## Snake Eating my Contributions
+![snake gif](https://github.com/Talha-Aslam/Talha-Aslam/blob/output/github-contribution-grid-snake.gif)
