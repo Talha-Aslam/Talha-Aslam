@@ -113,16 +113,13 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-
-### 🌟 Choose Your Snake Theme:
-
 <!-- Default Theme -->
 <!--![Snake Animation](https://raw.githubusercontent.com/Talha-Aslam/Talha-Aslam/output/github-contribution-grid-snake.svg)
 
 <!-- Uncomment the theme you prefer: -->
 
 <!-- 🌑 Dark Theme -->
-<-- ![Snake Animation](https://raw.githubusercontent.com/Talha-Aslam/Talha-Aslam/output/github-contribution-grid-snake-dark.svg) -->
+![Snake Animation](https://raw.githubusercontent.com/Talha-Aslam/Talha-Aslam/output/github-contribution-grid-snake-dark.svg)
 
 
 </div>
