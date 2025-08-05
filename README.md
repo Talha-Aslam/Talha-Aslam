@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/Talha-Aslam/Talha-Aslam/blob/main/tada.jpg" width="400" alt="Profile Banner">
+  <img src="https://github.com/Talha-Aslam/Talha-Aslam/blob/main/tada.jpg"  alt="Profile Banner">
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
