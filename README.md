@@ -113,8 +113,17 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-  
-![Snake Animation](https://raw.githubusercontent.com/Talha-Aslam/Talha-Aslam/output/github-contribution-grid-snake.svg)
+
+### 🌟 Choose Your Snake Theme:
+
+<!-- Default Theme -->
+<!--![Snake Animation](https://raw.githubusercontent.com/Talha-Aslam/Talha-Aslam/output/github-contribution-grid-snake.svg)
+
+<!-- Uncomment the theme you prefer: -->
+
+<!-- 🌑 Dark Theme -->
+<-- ![Snake Animation](https://raw.githubusercontent.com/Talha-Aslam/Talha-Aslam/output/github-contribution-grid-snake-dark.svg) -->
+
 
 </div>
 
@@ -122,7 +131,6 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Talha-Aslam&theme=tokyo-night" alt="Activity Graph" />
 </div>
-
 <br>
 <!-- Corner decorations -->
 <div align="center">
