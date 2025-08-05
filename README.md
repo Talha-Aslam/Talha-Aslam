@@ -1,14 +1,22 @@
-# <div align="center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Talha Aslam</div>
+<!-- Corner Graphics -->
+<div align="left">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="150">
+</div>
+
+# <div align="center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> Hi, I'm Talha Aslam</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Flutter+Developer+%7C+Entrepreneur;Building+Apps+with+Flutter+%26+Python;Creator+of+AI+Assistant+Jarvis;Innovator+%26+Problem+Solver;Passionate+About+Mobile+Development" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://github.com/Talha-Aslam/Talha-Aslam/blob/main/tada.jpg"  alt="Profile Banner">
+  <img src="https://github.com/Talha-Aslam/Talha-Aslam/blob/main/tada.jpg" alt="Profile Banner">
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<br>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Talha-Aslam&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
@@ -31,6 +39,9 @@
 - 📫 Reach me at **ta104g38@gmail.com**
 - 📄 Know about my experiences: [My Resume](https://github.com/Talha-Aslam/Talha-Resume.git)
 
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 ## ⚡ Fun Facts
 
 <details>
@@ -46,6 +57,10 @@
 </details>
 
 ## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+</div>
 
 <div align="center">
 
@@ -70,6 +85,9 @@
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
 
 </div>
+
+<!-- Decorative divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
 ## 📊 GitHub Analytics
 
@@ -105,6 +123,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Talha-Aslam&theme=tokyo-night" alt="Activity Graph" />
 </div>
 
+<!-- Corner decorations -->
+<div align="left">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="120">
+</div>
+
 ## 🌐 Connect with Me
 
 <div align="center">
@@ -114,6 +137,10 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ta104g38@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Talha-Aslam)
 
+</div>
+
+<div align="right">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="120">
 </div>
 
 ---
@@ -126,4 +153,11 @@
   
 **"Code is like humor. When you have to explain it, it's bad." – Cory House**
 
+</div>
+
+<!-- Bottom corner decorations -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="40">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="40">
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="40">
 </div>
